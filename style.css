@@ -1,0 +1,23 @@
+header {
+    background-color: Black;
+    font-size: 40px;
+}
+
+.text{
+    text-align: center;
+    font-family: Monospace;
+    text-shadow: 2px 2px 5px #0E0874;
+    font-size: 17;
+}
+
+img {
+    width:1100;
+    height:500;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: Monospace;
+}
